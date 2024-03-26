@@ -7,8 +7,14 @@ body {
     height: 100vh;
     background-color: #000;
     color: #fff;
+    box-sizing: border-box;
 }
 
 .titulo-destaque {
     color: #22d4fd;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
 }

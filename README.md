@@ -1,5 +1,5 @@
 # Curso de Flexbox na Alura
-O curso foi muito interessante e abordou o assunto Flexbox em CSS puro. O curso foi na Alura chamado (HTML e CSS: Classes, posicionamento e Flexbox)[https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox].
+O curso foi muito interessante e abordou o assunto Flexbox em CSS puro. O curso foi na Alura chamado [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox).
 
 ## Publicação na Vercel
 [https://html-css-navy-two.vercel.app](https://html-css-navy-two.vercel.app/)

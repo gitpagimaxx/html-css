@@ -18,7 +18,7 @@ body {
 }
 
 .apresentacao {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -26,19 +26,20 @@ body {
 
 .apresentacao__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
-    margin-bottom: 50px;
 }
 
 .apresentacao__conteudo__descricao {
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    margin-bottom: 50px;
 }
 
 .apresentacao__links {
